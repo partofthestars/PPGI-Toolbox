@@ -43,6 +43,4 @@ Proceedings (Lecture Notes in Computer Science), Springer, 2017
 - M. Hülsbusch. A functional imaging technique for opto-electronic assessment of skin perfusion. PhD thesis, RWTH Aachen University, 2008.
 
 ### License
-<br>
-<br>
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
