@@ -1,10 +1,8 @@
 # PPGI-Toolbox
 A MATLAB toolbox for Photoplethysmography Imaging<br>
+<p align="center"><img width=80% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/logo.png"></p>
 <br>
-<br>
-[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
-<br>
-<br>
+
 ### Algorithms
 
 - Channel Mean (G)
@@ -42,3 +40,7 @@ Proceedings (Lecture Notes in Computer Science), Springer, 2017
 - De Haan, G., & Jeanne, V. (2013). Robust pulse rate from chrominance-based rPPG. IEEE Transactions on Biomedical Engineering, 60(10), 2878-2886
 - Verkruysse, W., Svaasand, L. O., & Nelson, J. S. (2008). Remote plethysmographic imaging using ambient light. Optics express, 16(26), 21434-21445
 - M. Hülsbusch. A functional imaging technique for opto-electronic assessment of skin perfusion. PhD thesis, RWTH Aachen University, 2008.
+
+### License
+
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
