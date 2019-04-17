@@ -4,7 +4,7 @@ A MATLAB toolbox for Photoplethysmography Imaging<br>
 <p align="center"><img width=80% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/logo.png"></p>
 <br>
 
-### Algorithms
+## Algorithms
 
 - Channel Mean (G) [7,8]
 - Spatial Subspace Rotation (SSR) [5]
@@ -13,20 +13,20 @@ A MATLAB toolbox for Photoplethysmography Imaging<br>
 - Diffusion Process (DP) [4]
 - Riemannian-PPGI (SH) [1]
 
-### Evaluation
+## Evaluation
 
 - Correlation
 - Bland-Altman
 - RMSE/ MSE
 - SNR [6]
 
-### Databases
+## Databases
 
 - UBFC-RPPG 
 - LGI Multi Session [1,2]
 - VIPL-HR
 
-### References
+## References
 
 1. Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Photoplethysmography Imaging, arXiv:1903.03316 [cs.CV], 2019
 2. Christian S. Pilz, S. Zaunseder, J. Krajewski, V. Blazek,
@@ -42,5 +42,5 @@ Proceedings (Lecture Notes in Computer Science), Springer, 2017
 7. Verkruysse, W., Svaasand, L. O., & Nelson, J. S. (2008). Remote plethysmographic imaging using ambient light. Optics express, 16(26), 21434-21445
 8. M. Hülsbusch. A functional imaging technique for opto-electronic assessment of skin perfusion. PhD thesis, RWTH Aachen University, 2008.
 
-### License
+## License
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
