@@ -6,24 +6,24 @@ A MATLAB toolbox for Photoplethysmography Imaging<br>
 
 ### Algorithms
 
-- Channel Mean (G)
-- Spatial Subspace Rotation (SSR)
-- Algorithmic Principles of Remote PPG (POS)
-- Local Group Invariance (LGI)
-- Diffusion Process (DP)
-- Riemannian-PPGI (SH)
+- Channel Mean (G) [7,8]
+- Spatial Subspace Rotation (SSR) [5]
+- Algorithmic Principles of Remote PPG (POS)[3]
+- Local Group Invariance (LGI) [1,2]
+- Diffusion Process (DP) [4]
+- Riemannian-PPGI (SH) [1]
 
 ### Evaluation
 
 - Correlation
 - Bland-Altman
 - RMSE/ MSE
-- SNR
+- SNR [6]
 
 ### Databases
 
 - UBFC-RPPG 
-- LGI Multi Session
+- LGI Multi Session [1,2]
 - VIPL-HR
 
 ### References
