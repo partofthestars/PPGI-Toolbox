@@ -46,4 +46,10 @@ Proceedings (Lecture Notes in Computer Science), Springer, 2017
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
 
 ## Results
-- UBFC-RPPG
+- UBFC-RPPG:
+
+| Pearson             |  RMSE |
+:-------------------------:|:-------------------------:
+![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
+
+
