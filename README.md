@@ -1,11 +1,9 @@
 # PPGI-Toolbox
 A MATLAB toolbox for Photoplethysmography Imaging<br>
 <br>
-<p align="center"><img width=30% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/beta.jpg"></p>
+<p align="left"><img width=30% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/beta.jpg"></p>
 <br>
-<br>
-<p align="center"><img width=80% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/logo.png"></p>
-<br>
+
 
 ## Algorithms
 
