@@ -6,7 +6,7 @@ A MATLAB toolbox for Photoplethysmography Imaging<br>
 
 ## Example Data
 
-The example data can be download given the following link:<br>
+The example data can be download by the following link:<br>
 https://www.dropbox.com/s/vv6ethy5az16wt4/example_data.mat?dl=0
 
 Place the example_data.mat file into ./media/data/ folder.<br>
