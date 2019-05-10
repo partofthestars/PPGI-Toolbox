@@ -22,5 +22,5 @@ The script will store the segmented skin pixels into the example_data.mat.
 The skin pixels cell array can be used for the other test scripts in order 
 to avoid the need for a recomputation of the skin segmentation.
 this is essentially pretty usefull during extensive data evaluation procedures
-where often seberal attemps using different parameters are needed to obtained
+where often several attemps using different parameters are needed to obtained
 a good calibrated result.
