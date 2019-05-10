@@ -24,7 +24,7 @@
 clear all;
 close all;
 
-load('./../examples/data/example_data.mat');
+load('./../media/data/example_data.mat');
 
 frames=size(rgb,2);
 
@@ -33,4 +33,4 @@ for f=1:frames
     skin_pixels{f}=skin.get(rgb{f});
 end
 
-save('./../examples/data/example_data.mat','fs','ppg','rgb','skin_pixels','-v7.3');
+save('./../media/data/example_data.mat','fs','ppg','rgb','skin_pixels','-v7.3');
