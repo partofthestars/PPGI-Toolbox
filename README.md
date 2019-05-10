@@ -9,9 +9,9 @@ A MATLAB toolbox for Photoplethysmography Imaging<br>
 The example data can be download given the following link:<br>
 https://www.dropbox.com/s/vv6ethy5az16wt4/example_data.mat?dl=0
 
-Place the example_data.mat file into ./media/data/ folder.
-example_data.mat contains the reference finger pulse oximeter waveform (ppg)
-and the rgb image data of a face finder detection result.
+Place the example_data.mat file into ./media/data/ folder.<br>
+The example_data.mat contains the reference finger pulse oximeter waveform (ppg)
+and the color image data of a face finder detection result in the rgb cell.
 
 ## Algorithms
 
