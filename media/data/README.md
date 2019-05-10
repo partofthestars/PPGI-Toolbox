@@ -1,6 +1,10 @@
 
 # PPGI-Toolbox
-A MATLAB toolbox for Photoplethysmography Imaging<br>
+<b>A MATLAB toolbox for Photoplethysmography Imaging</b><br>
+<br>
+by Christian S. Pilz, Aachen, 2019
+<br>
+cpi@partofthestars.com<br>
 <br>
 
 ## Example Data
