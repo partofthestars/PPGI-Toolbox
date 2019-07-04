@@ -1,11 +1,10 @@
-##################################################################
 
-PPGI-Toolbox
+# PPGI-Toolbox
+<b>A MATLAB toolbox for Photoplethysmography Imaging</b><br>
+<br>
+by Christian S. Pilz, Aachen, 2019<br>
+<br>
 
-A MATLAB toolbox for Photoplethysmography Imaging
+## Utils
 
-by Christian S. Pilz, Aachen, 2019
-
-cpi@partofthestars.com
-
-##################################################################
+- skin.m
