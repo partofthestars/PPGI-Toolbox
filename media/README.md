@@ -8,11 +8,6 @@ by Christian S. Pilz, Aachen, 2019
 <p align="left"><img width=20% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/beta.jpg"></p>
 <br>
 
-## ico
-
-- Logos from the main page
-
-
 ## media
 
 - data
