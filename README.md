@@ -1,4 +1,4 @@
-# PPGI-Toolbox
+# PPGI-Toolbox 
 <b>A MATLAB toolbox for Photoplethysmography Imaging</b><br>
 <br>
 by Christian S. Pilz, Aachen, 2019
@@ -9,14 +9,10 @@ by Christian S. Pilz, Aachen, 2019
 
 ## Supported by
 
-<br>
-<p align="left"><img width=20% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cancontrols.png"></p>
-<p align="left"><img width=20% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/MedIT_RWTH.png"></p>
 
-![alt-text-1](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cancontrols.png "title-1") ![alt-text-2](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/MedIT_RWTH.png "title-2")
-
-
-
+| [![VideoBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cancontrols.png)](http://cancontrols.com)  | [![AudioBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/MedIT_RWTH.png)](https://www.medit.hia.rwth-aachen.de) | [![GraphicStock](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/IXP.png)](http://ixp-duesseldorf.de) |
+|:---:|:---:|:---:|
+| http://cancontrols.com | https://www.medit.hia.rwth-aachen.de | http://ixp-duesseldorf.de |
 
 ## Example Data
 
