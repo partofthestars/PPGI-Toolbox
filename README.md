@@ -3,9 +3,9 @@
 <br>
 Version beta0.1
 <br>
-Christian S. Pilz<br>
-cpi@partofthestars.com<br>
-Aachen 2019<br>
+by Christian S. Pilz, Aachen, 2019
+<br>
+<br>
 <p align="left"><img width=20% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/beta.jpg"></p>
 <br>
 PPGI-Toolbox Version b0.1<br>
