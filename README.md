@@ -10,10 +10,15 @@ by Christian S. Pilz, Aachen, 2019
 
 ## Supported by
 
-
 | [![VideoBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cancontrols.png)](http://cancontrols.com)  | [![AudioBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/MedIT_RWTH.png)](https://www.medit.hia.rwth-aachen.de) | [![GraphicStock](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/IXP.png)](http://ixp-duesseldorf.de) |
 |:---:|:---:|:---:|
-| http://cancontrols.com | https://www.medit.hia.rwth-aachen.de | http://ixp-duesseldorf.de |
+
+
+## Funded by
+
+| [![BMBF](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/efre_eu_logo.png)](https://ec.europa.eu/regional_policy/en/funding/erdf/)  | [![EFRE](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/BMBF.png)](http://bmbf.de) | [![EFRE.NRW](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/efre_nrw_logo.jpg)](http://efre.nrw.de) |
+|:---:|:---:|:---:|
+
 
 ## Example Data
 
