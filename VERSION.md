@@ -1,5 +1,5 @@
 PPGI-Toolbox Version b0.1
-
-Christian S. Pilz
-cpi@partofthestars.com
+<br>
+Christian S. Pilz<br>
+cpi@partofthestars.com<br>
 Aachen 2019
