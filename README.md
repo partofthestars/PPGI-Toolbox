@@ -7,6 +7,12 @@ by Christian S. Pilz, Aachen, 2019
 <p align="left"><img width=20% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/beta.jpg"></p>
 <br>
 
+## Powered by
+
+<br>
+<p align="left"><img width=20% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/beta.jpg"></p>
+<br>
+
 ## Example Data
 
 The example data can be download by the following link:<br>
