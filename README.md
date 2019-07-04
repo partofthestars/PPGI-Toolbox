@@ -10,7 +10,7 @@ by Christian S. Pilz, Aachen, 2019
 ## Supported by
 
 <br>
-<p align="left"><img width=20% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cancontrols.jpg"></p>
+<p align="left"><img width=20% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cancontrols.png"></p>
 <br>
 
 ## Example Data
