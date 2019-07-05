@@ -40,7 +40,7 @@ The example data can be download by the following link:<br>
 https://www.dropbox.com/s/vv6ethy5az16wt4/example_data.mat?dl=0
 
 Place the example_data.mat file into ./media/data/ folder.<br>
-The example_data.mat contains the reference finger pulse oximeter waveform (ppg)
+The example_data.mat contains the reference finger pulse oximeter waveform (PPG)
 and the color image data of a face finder detection result in the rgb cell.
 
 ## Algorithms
