@@ -1,5 +1,5 @@
 # PPGI-Toolbox 
-<p align="center"><img width=50% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/Logo.jpg"></p>
+<p align="center"><img width=65% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/Logo.jpg"></p>
 <p align="center"><b>A MATLAB toolbox for Photoplethysmography Imaging</b></p>
 <p align="center">by Christian S. Pilz, Aachen, 2019</p>
 <p align="center">Version beta0.1</p>
