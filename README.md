@@ -49,7 +49,7 @@ and the color image data of a face finder detection result in the rgb cell.
 
 ## References
 
-1. Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Photoplethysmography Imaging, arXiv:1903.03316 [cs.CV], 2019
+1. Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Photoplethysmography Imaging, Preprint: : arXiv:1903.03316 [cs.CV], 2019
 2. Christian S. Pilz, S. Zaunseder, J. Krajewski, V. Blazek,
 Local Group Invariance for Heart Rate Estimation from Face Videos in the Wild,
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp.1254-1262, Salt Lake City, 2018
