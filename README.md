@@ -45,7 +45,7 @@ and the color image data of a face finder detection result in the rgb cell.
 
 ## Tests
 
-In the tests directory there're seperate example Matlab scripts. One for each algorithm respectively.
+In the tests directory there're separate example Matlab scripts. One for each algorithm respectively.
 Initially the startup.m script must be executed to add all needed directories.
 As second step executing test_skin.m will perform skin segmentation on the example_data.mat in case it was
 downloaded and placed into the ./media/data/ folder. The obtained skin pixels will be stored into the example_data.mat file
