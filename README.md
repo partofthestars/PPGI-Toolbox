@@ -112,7 +112,7 @@ average root-mean-square error (RMSE) value in BPM.
 
 In the following the box plot statistics for the UBFC and the LGI database are visualized. In addition to previous table the
 inﬂuence of the Diffusion process [4] incorporated into the LGI and SPH approach is constituted. Both approaches beneﬁt
-from its stochastic interpretation as quasi-periodic nature of blood volume changes in contrast to the standart Fourier based spectral peak search.
+from its stochastic interpretation as quasi-periodic nature of blood volume changes in contrast to the standard Fourier based spectral peak search.
 
 #### UBFC-RPPG:
 
