@@ -5,6 +5,6 @@
 by Christian S. Pilz, Aachen, 2019<br>
 <br>
 
-## UBFC
+## LGI
 
 - all evaluation results for the different algorithms: Pearsons& RMSE
