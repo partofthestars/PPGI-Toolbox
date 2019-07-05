@@ -46,9 +46,8 @@ and the color image data of a face finder detection result in the rgb cell.
 
 ## Databases
 
-- UBFC-RPPG 
-- LGI Multi Session [1,2]
-- VIPL-HR
+- UBFC-RPPG [9]: [Download link](https://sites.google.com/view/ybenezeth/ubfcrppg)
+- LGI Multi Session [1,2,4]: [Download link](https://github.com/partofthestars/LGI-PPGI-DB)
 
 ## References
 
@@ -65,6 +64,7 @@ Proceedings (Lecture Notes in Computer Science), Springer, 2017
 6. De Haan, G., & Jeanne, V. (2013). Robust pulse rate from chrominance-based rPPG. IEEE Transactions on Biomedical Engineering, 60(10), 2878-2886
 7. Verkruysse, W., Svaasand, L. O., & Nelson, J. S. (2008). Remote plethysmographic imaging using ambient light. Optics express, 16(26), 21434-21445
 8. M. Hülsbusch. A functional imaging technique for opto-electronic assessment of skin perfusion. PhD thesis, RWTH Aachen University, 2008.
+9. S. Bobbia, R. Macwan, Y. Benezeth, A. Mansouri, J. Dubois, "Unsupervised skin tissue segmentation for remote photoplethysmography", Pattern Recognition Letters, 2017.
 
 ## License
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
