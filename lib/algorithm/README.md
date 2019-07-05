@@ -7,4 +7,4 @@ by Christian S. Pilz, Aachen, 2019<br>
 
 ## algorithm
 
-- empty
+- features
