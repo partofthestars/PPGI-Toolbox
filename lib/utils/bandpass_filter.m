@@ -1,6 +1,6 @@
 %########################################################################
 %
-%	- PPGI Toolbox - 
+%   - PPGI Toolbox - 
 %   A MATLAB toolbox for Photoplethysmography Imaging (PPGI)
 %
 % Author   : Christian S. Pilz
@@ -10,7 +10,7 @@
 % Contact  : cpi@partofthestars.com
 % Web Page : www.partofthestars.com
 %
-% Version  : Alpha RA 1.0
+% Version  : beta0.1
 %
 %########################################################################
 %
