@@ -93,9 +93,3 @@ Proceedings (Lecture Notes in Computer Science), Springer, 2017
 | Pearson             |  RMSE |
 :-------------------------:|:-------------------------:
 ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
-
-- VIPL-HR:
-
-| Pearson             |  RMSE |
-:-------------------------:|:-------------------------:
-![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
