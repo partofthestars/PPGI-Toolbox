@@ -20,6 +20,14 @@
 %
 %   The classical channel expectation
 %
+% References:
+%
+%	M. Hülsbusch. A functional imaging technique for opto-electronic assessment of skin perfusion. 
+%	PhD thesis, RWTH Aachen University, 2008.
+%
+%	Verkruysse, W., Svaasand, L. O., & Nelson, J. S. (2008). Remote plethysmographic imaging using ambient light. 
+%	Optics express, 16(26), 21434-21445
+%
 
 classdef channel_mean
     
