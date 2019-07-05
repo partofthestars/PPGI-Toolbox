@@ -107,9 +107,8 @@ average root-mean-square error (RMSE) value in BPM.
 | UBFC | 0.16/22.1 | 0.54/4.95 | 0.68/4.42 | 0.75/5.94 | 0.73/3.21 |
 | LGI Resting | 0.41/2.61 | 0.49/1.99 | 0.41/2.10 | 0.69/1.41 | 0.71/1.49 | 
 | LGI Rotation | 0.15/13.2 | 0.06/10.9 | 0.12/5.32 | 0.67/1.92 | 0.56/2.54 | 
-| LGI Gym | 0.01/33.5 | 0.03/21.2 | 0.15/12.2 | 0.42/2.65 | 0.26/3.65 | 
 | LGI Talk | 0.15/46.6 | 0.12/27.8 | 0.01/37.7 | 0.51/14.7 | 0.23/27.8 | 
-
+| LGI Gym | 0.01/33.5 | 0.03/21.2 | 0.15/12.2 | 0.42/2.65 | 0.26/3.65 | 
 
 In the following the box plot statistics for the UBFC and the LGI database are visualized. In addition to previous table the
 inﬂuence of the Diffusion process [4] incorporated into the LGI and SPH approach is constituted. Both approaches beneﬁt
