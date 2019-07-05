@@ -10,7 +10,7 @@
 % Contact  : cpi@partofthestars.com
 % Web Page : www.partofthestars.com
 %
-% Version  : Alpha RA 1.0
+% Version  : beta0.1
 %
 %########################################################################
 %
