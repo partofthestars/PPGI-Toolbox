@@ -27,8 +27,7 @@ skin region of interest will destroy the raw signal in a way that no reliable in
 Beside from being able to estimate vitality parameters like heart rate and respiration, the functional survey of wounds
 as well as quantiﬁcation of allergic skin reaction are further topics of discovered employments of skin blood
 perfusion analysis. Recently, prediction of emotional states, stress, fatigue and sickness became interesting new achievements in this area, pushing the focus of this technology further towards human-machine interaction.
-In contrast to the genuine medical use-case of the technology, in computer vision and human-machine inter-
-action we can’t expect any cooperative behavior of the user without introducing lack of convenience and a reduction of
+In contrast to the genuine medical use-case of the technology, in computer vision and human-machine interaction we can’t expect any cooperative behavior of the user without introducing lack of convenience and a reduction of
 the general user acceptance. Further, beyond any well tempered clinical and laboratory like scenarios, the majority
 application will face strong challenging environmental changes and differences much more quite common. Thus,
 there’s an emerging demand to produce better features and models signiﬁcant more robust to nuisance factors, still
