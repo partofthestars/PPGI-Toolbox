@@ -73,6 +73,27 @@ If you use this dataset, please cite this paper:<br>
 Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Photoplethysmography Imaging, arXiv:1903.03316 [cs.CV], 2019
 
 ## Results
+
+Vealuation was conducted on the following databses:
+- UBFC-RPPG
+- LGI Multi Session
+
+### Overview
+
+Comparison of heart rate prediction accuracy utilizing different feature operators on diverse face video
+databases. Each corresponding table entry represents the average Pearson’s correlation coefﬁcient together with the
+average root-mean-square error (RMSE) value in BPM.
+
+| Database  | Green [7,8] | SSR [5] | POS [3]| LGI [2] | SPH [1] |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
+
+In the following the box plot statistics for the UBFC and the LGI database are visualized. In addition to previous table the
+inﬂuence of the Diffusion process [4] incorporated into the LGI and SPH approach is constituted. Both approaches beneﬁt
+from its stochastic interpretation as quasi-periodic nature of blood volume changes.
+
 #### UBFC-RPPG:
 
 | Pearson             |  RMSE |
