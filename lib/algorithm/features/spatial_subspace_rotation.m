@@ -1,6 +1,6 @@
 %########################################################################
 %
-%	- PPGI Toolbox - 
+%   - PPGI Toolbox - 
 %   A MATLAB toolbox for Photoplethysmography Imaging (PPGI)
 %
 % Author   : Christian S. Pilz
