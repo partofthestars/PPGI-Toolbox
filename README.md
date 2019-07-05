@@ -86,7 +86,7 @@ Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Ph
 
 | Pearson             |  RMSE |
 :-------------------------:|:-------------------------:
-![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
+![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/LGI/LGI_Office_Head_Resting_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/LGI/LGI_Office_Head_Resting_rmse.png)
 
 <br>
 - Session 2: Head Rotation
@@ -94,7 +94,7 @@ Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Ph
 
 | Pearson             |  RMSE |
 :-------------------------:|:-------------------------:
-![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
+![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/LGI/LGI_Head_Rotation_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/LGI/LGI_Head_Rotation_rmse.png)
 
 <br>
 - Session 3: Bicycle Ergometer
@@ -102,7 +102,7 @@ Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Ph
 
 | Pearson             |  RMSE |
 :-------------------------:|:-------------------------:
-![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
+![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/LGI/LGI_GYM_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/LGI/LGI_GYM_rmse.png)
 
 <br>
 - Session 4: Outdoor City Talk
@@ -110,4 +110,4 @@ Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Ph
 
 | Pearson             |  RMSE |
 :-------------------------:|:-------------------------:
-![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
+![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/LGI/LGI_City_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/LGI/LGI_City_rmse.png)
