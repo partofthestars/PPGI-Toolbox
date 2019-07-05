@@ -52,7 +52,7 @@ and the color image data of a face finder detection result in the rgb cell.
 - Algorithmic Principles of Remote PPG (POS)[3]
 - Local Group Invariance (LGI) [1,2]
 - Diffusion Process (DP) [4]
-- Riemannian-PPGI (SH) [1]
+- Riemannian-PPGI (SPH) [1]
 
 ## Evaluation
 
