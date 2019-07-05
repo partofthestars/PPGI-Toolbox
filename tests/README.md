@@ -14,6 +14,9 @@ Place the example_data.mat file into this folder.
 example_data.mat contains the reference finger pulse oximeter waveform (ppg)
 and the rgb image data of a face finder detection result.
 
+## Setup
+Execute startup.m from the toolbox root dir to set all path needed by the scripts
+
 ## Test skin
 
 This will perfom simple skin segmentation on the sample rgb data of the example_data.mat.
