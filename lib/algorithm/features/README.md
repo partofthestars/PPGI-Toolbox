@@ -5,6 +5,6 @@
 by Christian S. Pilz, Aachen, 2019<br>
 <br>
 
-## algorithm
+## features
 
-- empty
+- channel_mean.m
