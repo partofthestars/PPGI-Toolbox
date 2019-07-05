@@ -78,26 +78,30 @@ Proceedings (Lecture Notes in Computer Science), Springer, 2017
 
 #### LGI Multi Session:
 
+<br>
 - Session 1: Head Resting
 
 | Pearson             |  RMSE |
 :-------------------------:|:-------------------------:
 ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
 
+<br>
 - Session 2: Head Rotation
-<br>
+
 
 | Pearson             |  RMSE |
 :-------------------------:|:-------------------------:
 ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
 
+<br>
 - Session 3: Bicycle Ergometer
-<br>
+
 
 | Pearson             |  RMSE |
 :-------------------------:|:-------------------------:
 ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_pearson.png)  |  ![](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/UBFC/ubfc_rmse.png)
 
+<br>
 - Session 4: Outdoor City Talk
 <br>
 
