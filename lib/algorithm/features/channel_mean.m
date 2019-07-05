@@ -1,6 +1,6 @@
 %########################################################################
 %
-%	- PPGI Toolbox - 
+%   - PPGI Toolbox - 
 %   A MATLAB toolbox for Photoplethysmography Imaging (PPGI)
 %
 % Author   : Christian S. Pilz
@@ -18,7 +18,7 @@
 %
 % Description:
 %
-%   The classical channel expectation
+%   The classical green channel spatial expectation of pixel intensities
 %
 % References:
 %
