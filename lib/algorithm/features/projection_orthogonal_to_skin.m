@@ -1,6 +1,6 @@
 %########################################################################
 %
-%	- PPGI Toolbox - 
+%   - PPGI Toolbox - 
 %   A MATLAB toolbox for Photoplethysmography Imaging (PPGI)
 %
 % Author   : Christian S. Pilz
@@ -22,7 +22,7 @@
 %
 % References:
 %
-%	Wang, W., den Brinker, A. C., Stuijk, S., & de Haan, G. (2017). Algorithmic principles of remote PPG.
+%   Wang, W., den Brinker, A. C., Stuijk, S., & de Haan, G. (2017). Algorithmic principles of remote PPG.
 %   IEEE Transactions on Biomedical Engineering, 64(7), 1479-1491
 %
 
