@@ -8,3 +8,4 @@ by Christian S. Pilz, Aachen, 2019<br>
 ## features
 
 - channel_mean.m
+- spatial_subspace_rotation.m
