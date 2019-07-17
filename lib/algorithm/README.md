@@ -13,3 +13,7 @@ by Christian S. Pilz, Aachen, 2019<br>
   - projection_orthogonal_to_skin.m
   - spherical_mean.m
   
+- models/
+  - diffusion_process/
+    - diffusion_process.p
+  
