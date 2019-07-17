@@ -18,9 +18,7 @@
 %
 % Description:
 %
-%   test of the Diffusion process model. the implementation is pre-compiled
-%   currently and will be updated as soon as possible. but it should give
-%   you the picture.
+%   test of the the POS algorithm from TU Eindhoven
 %
 
 clear all;
