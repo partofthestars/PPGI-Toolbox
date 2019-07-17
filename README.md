@@ -128,7 +128,7 @@ average root-mean-square error (RMSE) value in BPM.
 | LGI Gym | 0.01/33.5 | 0.03/21.2 | 0.15/12.2 | 0.42/2.65 | 0.26/3.65 | 
 
 In the following the box plot statistics for the UBFC and the LGI database are visualized. In addition to previous table the
-inﬂuence of the Diffusion process [4] incorporated into the LGI and SPH approach is constituted. Both approaches beneﬁt
+inﬂuence of the Diffusion process [3] incorporated into the LGI and SPH approach is constituted. Both approaches beneﬁt
 from its stochastic interpretation as quasi-periodic nature of blood volume changes in contrast to the traditional standard Fourier based spectral peak search.
 
 #### UBFC-RPPG:
