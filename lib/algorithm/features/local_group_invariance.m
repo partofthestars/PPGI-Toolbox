@@ -60,12 +60,12 @@ classdef local_group_invariance
            S=U(:,1)';
            P=eye(3)-S'*S;%rank 1
            
-           f_T(1:frames,3)=0;
+           F(1:frames,3)=0;
            for f=1:frames
-              f_T(f,:)=(P*centered(f,:)')';   
+              F(f,:)=(P*centered(f,:)')';   
            end
 
-           pulse=double(f_T(:,2));
+           pulse=double(F(:,2));
        end
    end
 end
