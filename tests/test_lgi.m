@@ -32,7 +32,7 @@ if ~exist('skin_pixels')
     return; 
 end
 
-lgi=local_group_invariance()
+lgi=local_group_invariance();
 pulse=lgi.get(skin_pixels);
 
 fs=25;
