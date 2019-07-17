@@ -104,7 +104,7 @@ Proceedings (Lecture Notes in Computer Science), Springer, 2017
 ## License
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
 
-If you use this dataset, please cite this paper:<br>
+If you use this toolbox, please cite this paper:<br>
 *Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Photoplethysmography Imaging, arXiv:1903.03316 [cs.CV], 2019*
 
 ## Results
