@@ -39,7 +39,7 @@ underlying optical and mathematical properties is one of the current foci of thi
 on the tiny blood volume changes inherently destroying the target
 information of heart rate under the conventional formulation of the
 problem. Utilizing features invariant with respect to the action of the group of nuisance
-transformations making it possible to estimate heart rate information under everyday facial motions. As illustrated for the above head motions, the green channel information doesn’t yield to reasonable heart rate information in the frequency domain. However, the extracting invariant feature shows a clear signal in both time
+transformations making it possible to estimate heart rate information under everyday facial motions. As illustrated for the above head motions, the green channel information doesn’t yield to reasonable heart rate information in the frequency domain. However, in case we're able to extract invariant features we obtain a clear signal in both time
 and frequency domain.</i>
 
 
