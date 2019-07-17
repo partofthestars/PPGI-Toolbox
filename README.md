@@ -57,7 +57,7 @@ and can be reused to test all other algorithm scripts.
 - Spatial Subspace Rotation (SSR) [5]
 - Algorithmic Principles of Remote PPG (POS)[3]
 - Local Group Invariance (LGI) [1,2]
-- Diffusion Process (DP) [4]
+- Diffusion Process (DP) [3]
 - Riemannian-PPGI (SPH) [1]
 
 ## Evaluation
@@ -70,7 +70,7 @@ and can be reused to test all other algorithm scripts.
 ## Databases
 
 - UBFC-RPPG [9]: [Download link](https://sites.google.com/view/ybenezeth/ubfcrppg)
-- LGI Multi Session [1,2,4]: [Download link](https://github.com/partofthestars/LGI-PPGI-DB)
+- LGI Multi Session [1,2,3]: [Download link](https://github.com/partofthestars/LGI-PPGI-DB)
 
 ## References
 
@@ -79,11 +79,11 @@ Preprint: arXiv:1903.03316 [cs.CV], 2019
 2. Christian S. Pilz, S. Zaunseder, J. Krajewski, V. Blazek,
 Local Group Invariance for Heart Rate Estimation from Face Videos in the Wild,
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp.1254-1262, Salt Lake City, 2018
-3. Wang, W., den Brinker, A. C., Stuijk, S., & de Haan, G. (2017). Algorithmic principles of remote PPG. IEEE Transactions on Biomedical Engineering, 64(7), 1479-1491
-4. Christian S. Pilz, Jarek Krajewski, Vladimir Blazek.
+3. Christian S. Pilz, Jarek Krajewski, Vladimir Blazek.
 On the Diffusion Process for Heart Rate Estimation from Face Videos under Realistic Conditions.
 Pattern Recognition: 39th German Conference, GCPR 2017, Basel, Switzerland.
 Proceedings (Lecture Notes in Computer Science), Springer, 2017
+4. Wang, W., den Brinker, A. C., Stuijk, S., & de Haan, G. (2017). Algorithmic principles of remote PPG. IEEE Transactions on Biomedical Engineering, 64(7), 1479-1491
 5. W. Wang, S. Stuijk and G. de Haan, "A Novel Algorithm for Remote Photoplethysmography: Spatial Subspace Rotation," in IEEE Transactions on Biomedical Engineering, vol. 63, no. 9, pp. 1974-1984, Sept. 2016.
 6. De Haan, G., & Jeanne, V. (2013). Robust pulse rate from chrominance-based rPPG. IEEE Transactions on Biomedical Engineering, 60(10), 2878-2886
 7. Verkruysse, W., Svaasand, L. O., & Nelson, J. S. (2008). Remote plethysmographic imaging using ambient light. Optics express, 16(26), 21434-21445
