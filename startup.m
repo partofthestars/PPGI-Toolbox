@@ -25,7 +25,9 @@ clear all; close all;
 
 [pathstr,~,~] = fileparts(mfilename('fullpath'));
 addpath(genpath([pathstr '/lib']));
-addpath(genpath([pathstr '/lib/algos']));
-addpath(genpath([pathstr '/lib/stats']));
+addpath(genpath([pathstr '/lib/algorithm']));
+addpath(genpath([pathstr '/lib/algorithm/features']))
+addpath(genpath([pathstr '/lib/algorithm/models']))
+addpath(genpath([pathstr '/lib/evaluation']));
 addpath(genpath([pathstr '/lib/utils']))
 clearvars pathstr;
