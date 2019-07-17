@@ -23,7 +23,7 @@
 %
 % References:
 %
-%	Christian S. Pilz, S. Zaunseder, J. Krajewski, V. Blazek, 
+%   Christian S. Pilz, S. Zaunseder, J. Krajewski, V. Blazek, 
 %   Local Group Invariance for Heart Rate Estimation from Face Videos in the Wild, 
 %   The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 
 %   pp.1254-1262, Salt Lake City, 2018
