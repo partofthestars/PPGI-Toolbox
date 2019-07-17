@@ -24,7 +24,7 @@
 %
 % References:
 %
-%	Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt.
+%   Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt.
 %   On the Vector Space in Photoplethysmography Imaging, 
 %   Preprint: arXiv:1903.03316 [cs.CV], 2019
 %
