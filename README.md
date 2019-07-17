@@ -96,7 +96,7 @@ Pattern Recognition: 39th German Conference, GCPR 2017, Basel, Switzerland.
 Proceedings (Lecture Notes in Computer Science), Springer, 2017
 4. Christian S. Pilz, Sebastian Zaunseder, Ulrich Canzler, Jarek Krajewski.
 Heart rate from face videos under realistic conditions for advanced driver monitoring. 
-Current Directions in Biomedical Engineering, De Gruyter, Berlin, 2017.
+Current Directions in Biomedical Engineering, De Gruyter, Berlin, pp. 483–487, 2017.
 5. Wang, W., den Brinker, A. C., Stuijk, S., & de Haan, G. (2017). Algorithmic principles of remote PPG. IEEE Transactions on Biomedical Engineering, 64(7), 1479-1491
 6. W. Wang, S. Stuijk and G. de Haan, "A Novel Algorithm for Remote Photoplethysmography: Spatial Subspace Rotation," in IEEE Transactions on Biomedical Engineering, vol. 63, no. 9, pp. 1974-1984, Sept. 2016.
 7. De Haan, G., & Jeanne, V. (2013). Robust pulse rate from chrominance-based rPPG. IEEE Transactions on Biomedical Engineering, 60(10), 2878-2886
