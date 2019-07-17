@@ -37,7 +37,8 @@ underlying optical and mathematical properties is one of the current foci of thi
 ## Example Data
 
 The example data can be download by the following link:<br>
-https://www.dropbox.com/s/vv6ethy5az16wt4/example_data.mat?dl=0
+https://www.dropbox.com/s/vv6ethy5az16wt4/example_data.mat?dl=0 <br>
+(NOTE: Leave me a message in case the file isn't available anymore via dropbox!)
 
 Place the example_data.mat file into ./media/data/ folder.<br>
 The example_data.mat contains the reference finger pulse oximeter waveform (PPG)
