@@ -20,6 +20,7 @@ by Christian S. Pilz, Aachen, 2019<br>
 ## evaluation
 
 - ground_truth_stats.m
+- bland_altman.m
 
 ## utils
 
