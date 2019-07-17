@@ -7,5 +7,4 @@ by Christian S. Pilz, Aachen, 2019<br>
 
 ## models
 
-- diffusion process/
-  - diffusion process.p
+- diffusion process.p
