@@ -7,12 +7,23 @@ by Christian S. Pilz, Aachen, 2019<br>
 
 ## algorithm
 
-- empty
+- features/
+	- channel_mean.m
+	- spatial_subspace_rotation.m
+	- projection_orthogonal_to_skin.m
+	- spherical_mean.m
+	
+- models/
+	- diffusion_process/
+		- diffusion_process.p
 
 ## evaluation
 
-- empty
+- ground_truth_stats.m
 
 ## utils
 
 - skin.m
+- circular_buffer.m
+- bandpass_filter.m
+
