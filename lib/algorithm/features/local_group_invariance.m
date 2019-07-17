@@ -14,7 +14,7 @@
 %
 %########################################################################
 %
-%	projection_orthogonal_to_skin.m:
+%	local_group_invariance.m:
 %
 % Description:
 %
