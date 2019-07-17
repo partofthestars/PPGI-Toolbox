@@ -64,11 +64,11 @@ and can be reused to test all other algorithm scripts.
 
 ## Algorithms
 
-- Channel Mean (G) [7,8]
-- Spatial Subspace Rotation (SSR) [5]
-- Algorithmic Principles of Remote PPG (POS)[3]
+- Channel Mean (G) [8,9]
+- Spatial Subspace Rotation (SSR) [6]
+- Algorithmic Principles of Remote PPG (POS)[5]
 - Local Group Invariance (LGI) [1,2]
-- Diffusion Process (DP) [3]
+- Diffusion Process (DP) [3,4]
 - Riemannian-PPGI (SPH) [1]
 
 ## Evaluation
@@ -76,11 +76,11 @@ and can be reused to test all other algorithm scripts.
 - Correlation
 - Bland-Altman
 - RMSE/ MSE
-- SNR [6]
+- SNR [7]
 
 ## Databases
 
-- UBFC-RPPG [9]: [Download link](https://sites.google.com/view/ybenezeth/ubfcrppg)
+- UBFC-RPPG [10]: [Download link](https://sites.google.com/view/ybenezeth/ubfcrppg)
 - LGI Multi Session [1,2,3]: [Download link](https://github.com/partofthestars/LGI-PPGI-DB)
 
 ## References
@@ -94,12 +94,15 @@ The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops,
 On the Diffusion Process for Heart Rate Estimation from Face Videos under Realistic Conditions.
 Pattern Recognition: 39th German Conference, GCPR 2017, Basel, Switzerland.
 Proceedings (Lecture Notes in Computer Science), Springer, 2017
-4. Wang, W., den Brinker, A. C., Stuijk, S., & de Haan, G. (2017). Algorithmic principles of remote PPG. IEEE Transactions on Biomedical Engineering, 64(7), 1479-1491
-5. W. Wang, S. Stuijk and G. de Haan, "A Novel Algorithm for Remote Photoplethysmography: Spatial Subspace Rotation," in IEEE Transactions on Biomedical Engineering, vol. 63, no. 9, pp. 1974-1984, Sept. 2016.
-6. De Haan, G., & Jeanne, V. (2013). Robust pulse rate from chrominance-based rPPG. IEEE Transactions on Biomedical Engineering, 60(10), 2878-2886
-7. Verkruysse, W., Svaasand, L. O., & Nelson, J. S. (2008). Remote plethysmographic imaging using ambient light. Optics express, 16(26), 21434-21445
-8. M. Hülsbusch. A functional imaging technique for opto-electronic assessment of skin perfusion. PhD thesis, RWTH Aachen University, 2008.
-9. S. Bobbia, R. Macwan, Y. Benezeth, A. Mansouri, J. Dubois, "Unsupervised skin tissue segmentation for remote photoplethysmography", Pattern Recognition Letters, 2017.
+4. Christian S. Pilz, Sebastian Zaunseder, Ulrich Canzler, Jarek Krajewski.
+Heart rate from face videos under realistic conditions for advanced driver monitoring. 
+Current Directions in Biomedical Engineering, De Gruyter, Berlin, 2017.
+5. Wang, W., den Brinker, A. C., Stuijk, S., & de Haan, G. (2017). Algorithmic principles of remote PPG. IEEE Transactions on Biomedical Engineering, 64(7), 1479-1491
+6. W. Wang, S. Stuijk and G. de Haan, "A Novel Algorithm for Remote Photoplethysmography: Spatial Subspace Rotation," in IEEE Transactions on Biomedical Engineering, vol. 63, no. 9, pp. 1974-1984, Sept. 2016.
+7. De Haan, G., & Jeanne, V. (2013). Robust pulse rate from chrominance-based rPPG. IEEE Transactions on Biomedical Engineering, 60(10), 2878-2886
+8. Verkruysse, W., Svaasand, L. O., & Nelson, J. S. (2008). Remote plethysmographic imaging using ambient light. Optics express, 16(26), 21434-21445
+9. M. Hülsbusch. A functional imaging technique for opto-electronic assessment of skin perfusion. PhD thesis, RWTH Aachen University, 2008.
+10. S. Bobbia, R. Macwan, Y. Benezeth, A. Mansouri, J. Dubois, "Unsupervised skin tissue segmentation for remote photoplethysmography", Pattern Recognition Letters, 2017.
 
 ## License
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
@@ -128,7 +131,7 @@ average root-mean-square error (RMSE) value in BPM.
 | LGI Gym | 0.01/33.5 | 0.03/21.2 | 0.15/12.2 | 0.42/2.65 | 0.26/3.65 | 
 
 In the following the box plot statistics for the UBFC and the LGI database are visualized. In addition to previous table the
-inﬂuence of the Diffusion process [3] incorporated into the LGI and SPH approach is constituted. Both approaches beneﬁt
+inﬂuence of the Diffusion process [3,4] incorporated into the LGI and SPH approach is constituted. Both approaches beneﬁt
 from its stochastic interpretation as quasi-periodic nature of blood volume changes in contrast to the traditional standard Fourier based spectral peak search.
 
 #### UBFC-RPPG:
