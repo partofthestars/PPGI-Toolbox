@@ -33,6 +33,16 @@ application will face strong challenging environmental changes and differences m
 there’s an emerging demand to produce better features and models signiﬁcant more robust to nuisance factors, still
 preserving the desired target information. To reach such a formulation a fundamental profound understanding of the
 underlying optical and mathematical properties is one of the current foci of this research discipline.
+<br><br>
+<p align="center"><img width=75% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cvpr2018.jpg"></p>
+<i><b>Figure 1.</b> Rigid and non-rigid facial motions act as nuisance factors
+on the tiny blood volume changes inherently destroying the target
+information of heart rate under the conventional formulation of the
+problem. Utilizing features invariant with respect to the action of the group of nuisance
+transformations making it possible to estimate heart rate information under everyday facial motions. As illustrated for the above head motions, the green channel information doesn’t yield to reasonable heart rate information in the frequency domain. However, the extracting invariant feature shows a clear signal in both time
+and frequency domain.</i>
+
+
 
 ## Example Data
 
