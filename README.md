@@ -98,7 +98,7 @@ If you use this dataset, please cite this paper:<br>
 
 ## Results
 
-Evaluation was conducted on the following databses:
+Evaluation was conducted on the following databases:
 - UBFC-RPPG
 - LGI Multi Session
 
