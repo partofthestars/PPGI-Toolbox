@@ -28,6 +28,7 @@ addpath(genpath([pathstr '/lib']));
 addpath(genpath([pathstr '/lib/algorithm']));
 addpath(genpath([pathstr '/lib/algorithm/features']))
 addpath(genpath([pathstr '/lib/algorithm/models']))
+addpath(genpath([pathstr '/lib/algorithm/models/diffusion_process']))
 addpath(genpath([pathstr '/lib/evaluation']));
 addpath(genpath([pathstr '/lib/utils']))
 clearvars pathstr;
