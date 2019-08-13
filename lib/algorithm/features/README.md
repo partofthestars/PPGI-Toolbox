@@ -10,6 +10,5 @@ by Christian S. Pilz, Aachen, 2019<br>
 - channel_mean.m
 - spatial_subspace_rotation.m
 - projection_orthogonal_to_skin.m
-- diffusion_process.p
 - local_group_invariance.m
 - spherical_mean.m
