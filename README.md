@@ -48,7 +48,7 @@ and frequency domain.</i>
 
 The example data can be download by the following link:<br>
 https://www.dropbox.com/s/vv6ethy5az16wt4/example_data.mat?dl=0 <br>
-(NOTE: Leave me a message in case the file isn't available anymore via dropbox!)
+(NOTE: Leave me a message in case the file isn't available anymore via dropbox!)<br>
 Alternative download location: https://gw.cancontrols.com/LGI_DATABASE/toolbox/example_data.mat
 
 Place the example_data.mat file into ./media/data/ folder.<br>
