@@ -109,7 +109,10 @@ Current Directions in Biomedical Engineering, De Gruyter, Berlin, pp. 483–487,
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
 
 If you use this toolbox, please cite this paper:<br>
-*Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Photoplethysmography Imaging, arXiv:1903.03316 [cs.CV], 2019*
+*Christian S. Pilz, Ibtissem Ben Makhlouf, Vladimir Blazek, Steffen Leonhardt, 
+On the Vector Space in Photoplethysmography Imaging, 
+The IEEE International Conference on Computer Vision (ICCV) Workshops,
+Seoul 2019*
 
 ## Results
 
