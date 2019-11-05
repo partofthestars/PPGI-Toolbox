@@ -86,8 +86,10 @@ and can be reused to test all other algorithm scripts.
 
 ## References
 
-1. Christian S. Pilz, Vladimir Blazek, Steffen Leonhardt, On the Vector Space in Photoplethysmography Imaging,<br>
-Preprint: arXiv:1903.03316 [cs.CV], 2019
+1. Christian S. Pilz, Ibtissem Ben Makhlouf, Vladimir Blazek, Steffen Leonhardt, 
+On the Vector Space in Photoplethysmography Imaging, 
+The IEEE International Conference on Computer Vision (ICCV) Workshops,
+Seoul/ South Korea, 2019
 2. Christian S. Pilz, S. Zaunseder, J. Krajewski, V. Blazek,
 Local Group Invariance for Heart Rate Estimation from Face Videos in the Wild,
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp.1254-1262, Salt Lake City, 2018
@@ -112,7 +114,7 @@ If you use this toolbox, please cite this paper:<br>
 *Christian S. Pilz, Ibtissem Ben Makhlouf, Vladimir Blazek, Steffen Leonhardt, 
 On the Vector Space in Photoplethysmography Imaging, 
 The IEEE International Conference on Computer Vision (ICCV) Workshops,
-Seoul 2019*
+Seoul/ South Korea, 2019*
 
 ## Results
 
