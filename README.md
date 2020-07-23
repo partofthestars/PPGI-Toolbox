@@ -8,7 +8,7 @@
 
 ## Supported by
 
-| [![VideoBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cancontrols.png)](http://cancontrols.com)  | [![GraphicStock](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/IXP.png)](http://ixp-duesseldorf.de) | [![AudioBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/UKAchen.png)](https://www.ukaachen.de/kliniken-institute/klinik-fuer-psychiatrie-psychotherapie-und-psychosomatik/forschung/neuropsychologie.html) | [![AudioBlockss](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/MedIT_RWTH.png)](https://www.medit.hia.rwth-aachen.de) | 
+| [![VideoBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cancontrols.png)](http://cancontrols.com)  | [![GraphicStock](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/IXP.png)](http://ixp-duesseldorf.de) | [![AudioBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/UKAachen.png)](https://www.ukaachen.de/kliniken-institute/klinik-fuer-psychiatrie-psychotherapie-und-psychosomatik/forschung/neuropsychologie.html) | [![AudioBlockss](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/MedIT_RWTH.png)](https://www.medit.hia.rwth-aachen.de) | 
 |:---:|:---:|:---:| :---:|
 
 ## Funded by
