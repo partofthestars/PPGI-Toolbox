@@ -6,6 +6,13 @@
 <p align="center">Version beta0.1</p>
 <p align="center"><img width=10% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/beta.jpg"></p>
 
+## News
+
+**29.11.2021**<br>
+Our work was recently featured in the following Nature article about digital medicine (npj Digit. Med.):<br>
+*Dasari, A., Prakash, S.K.A., Jeni, L.A. et al.. Evaluation of biases in remote photoplethysmography methods. npj Digit. Med. 4, 91 (2021).*  
+[https://doi.org/10.1038/s41746-021-00462-z](https://doi.org/10.1038/s41746-021-00462-z)
+
 ## Supported by
 
 | [![VideoBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/cancontrols.png)](http://cancontrols.com)  | [![GraphicStock](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/IXP.png)](http://ixp-duesseldorf.de) | [![AudioBlocks](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/UKAachen.png)](https://www.ukaachen.de/kliniken-institute/klinik-fuer-psychiatrie-psychotherapie-und-psychosomatik/forschung/neuropsychologie.html) | [![AudioBlockss](https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/ico/MedIT_RWTH.png)](https://www.medit.hia.rwth-aachen.de) | 
