@@ -10,7 +10,7 @@
 % Contact  : cpi@partofthestars.com
 % Web Page : www.partofthestars.com
 %
-% Version  : beta0.10
+% Version  : beta0.1
 %
 %########################################################################
 %
@@ -18,9 +18,7 @@
 %
 % Description:
 %
-%   test of the Diffusion process model. the implementation is pre-compiled
-%   currently and will be updated as soon as possible. but it should give
-%   you the picture.
+%   test of the Diffusion process model. 
 %
 
 clear all;
@@ -45,7 +43,7 @@ high=2.5;
 bpf=bandpass_filter(fs,low,high);
 raw_mean_f = bpf.get(raw_mean);
 
-%diffusion process (btw. state space model)
+%diffusion process (btw. dynamic bayesian state space model (dbssm) )
 %
 
 %estimate of measurement noise standard deviation
@@ -73,7 +71,11 @@ poverall = 0;
 %frequency search space
 freqlist=45:120;
 
-pulse=diffusion_process(raw_mean_f(:,2).*0.001,dt,freqlist,nharm,bq,sd,qr,ptrans,poverall);
+dbssm=diffusion_process();
+
+pulse=dbssm.get(raw_mean_f(:,2).*0.001,dt,freqlist,nharm,bq,sd,qr,ptrans,poverall);
+
+[pearson, rmse, snr, snr_var, bpm] = ground_truth_stats.get(ppg,pulse,fs);
 
 figure;
 plot(pulse*10000);
