@@ -5,8 +5,9 @@
 by Christian S. Pilz, Aachen, 2019<br>
 <br>
 
-## reults
+## results
 
 - UBFC
 - LGI
+- stochastic_oscillator
 
