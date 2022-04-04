@@ -13,11 +13,10 @@ function [MSE,C,x,f] = simulate_and_estimate(dts,Tend)
 % C - Standard deviation estimate from the filtering estimate
 %
 % Description:
-% A realization of a frequency trajectory in the band 0.5-1.5 Hz is
+% A realization of a frequency trajectory in the specific band  is
 % simulated and then the function 'simulate periodic data' is called
 % to simulate realizations of stochastic oscillatory signals with
-% given parameters. Noise is added to simulate noisy observations
-% and then the DRIFTER method is run with the simuated data. The MSE
+% given parameters. Noise is added to simulate noisy observations. The MSE
 % for each dt/TR is captured and returned.
 %
 
