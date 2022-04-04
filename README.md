@@ -8,6 +8,11 @@
 
 ## News
 
+**04.04.2022**<br>
+I uploaded the full implementation for the Diffusion process model.<br>
+An example implementation of a stochastic oscillator is added as well:
+<p align="center"><img width=60% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/oscillator.png"></p>
+
 **29.11.2021**<br>
 Our work was recently featured in the following Nature article about digital medicine (npj Digit. Med.):<br>
 *Dasari, A., Prakash, S.K.A., Jeni, L.A. et al.. Evaluation of biases in remote photoplethysmography methods. npj Digit. Med. 4, 91 (2021).*  
