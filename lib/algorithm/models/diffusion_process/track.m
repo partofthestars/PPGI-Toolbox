@@ -82,24 +82,6 @@ function [FF,MM,WW] = track(Y,dt,freqlist,nharm,BF,BQ,BL,BH,R,qr,ptrans,poverall
 %     each of the modes and mixing between them.
 %
 
-% Copyright (C) 2010 Simo Särkkä and Arno Solin
-%
-% This program is free software: you can redistribute it and/or modify
-% it under the terms of the GNU General Public License as published by
-% the Free Software Foundation, either version 3 of the License, or
-% (at your option) any later version.
-% 
-% This program is distributed in the hope that it will be useful,
-% but WITHOUT ANY WARRANTY; without even the implied warranty of
-% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-% GNU General Public License for more details.
-% 
-% You should have received a copy of the GNU General Public License
-% along with this program.  If not, see <http://www.gnu.org/licenses/>.
-%
-
-%% 
-
     % Report what we are doing
     fprintf('%-36s:%+35s\n','IMM Tracking of frequencies','Preparing..')
 
@@ -281,27 +263,7 @@ function [A,Q] = lti_disc(F,L,Q,dt)
 %   exactly over time steps, which are multiples
 %   of dt.
 %
-% History:
-%   11.01.2003  Covariance propagation by matrix fractions
-%   20.11.2002  The first official version.
 
-% Copyright (C) 2002, 2003 Simo Särkkä
-%
-% This program is free software: you can redistribute it and/or modify
-% it under the terms of the GNU General Public License as published by
-% the Free Software Foundation, either version 3 of the License, or
-% (at your option) any later version.
-% 
-% This program is distributed in the hope that it will be useful,
-% but WITHOUT ANY WARRANTY; without even the implied warranty of
-% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-% GNU General Public License for more details.
-% 
-% You should have received a copy of the GNU General Public License
-% along with this program.  If not, see <http://www.gnu.org/licenses/>.
-%
-
-%%
   %
   % Check number of arguments
   %
@@ -349,9 +311,6 @@ function [M,P,W] = imm_predict0(M,P,W,T,A,Q,B,U)
 % Syntax:
 %   [M,P,W] = IMM_PREDICT0(M,P,W,T,A,Q,B,U)
 %
-% Author:
-%   Simo S�rkk�, 2003
-%
 % In:
 %   M - DxN mean state estimates of previous step
 %   P - DxDxN state covariances from previous step
@@ -381,29 +340,7 @@ function [M,P,W] = imm_predict0(M,P,W,T,A,Q,B,U)
 %     x_i[k] = A_i*x_i[k-1] + B*u[k-1] + q_i,  q_i ~ N(0,Q_i)
 %     i = 1,...,N
 %
-% See also:
-%   IMM_UPDATE, KF_PREDICT, LTI_DISC, EKF_PREDICT, EKF_UPDATE
-%
-% History:
-%   18.02.2003  The first official version.
 
-% Copyright (C) 2003 Simo Särkkä
-%
-% This program is free software: you can redistribute it and/or modify
-% it under the terms of the GNU General Public License as published by
-% the Free Software Foundation, either version 3 of the License, or
-% (at your option) any later version.
-% 
-% This program is distributed in the hope that it will be useful,
-% but WITHOUT ANY WARRANTY; without even the implied warranty of
-% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-% GNU General Public License for more details.
-% 
-% You should have received a copy of the GNU General Public License
-% along with this program.  If not, see <http://www.gnu.org/licenses/>.
-%
-
-%%
   %
   % Check arguments
   %
@@ -523,28 +460,6 @@ function [M,P,W] = imm_predict0(M,P,W,T,A,Q,B,U)
 %
 %     p(y[k] |�y[1:k-1]) = sum w_i N(y[k] | IM_i[k], IS_i[k])
 %
-% See also:
-%   IMM_PREDICT, KF_UPDATE
-%
-% History:
-%   18.02.2003  The first official version.
-
-% Copyright (C) 2003 Simo Särkkä
-%
-% This program is free software: you can redistribute it and/or modify
-% it under the terms of the GNU General Public License as published by
-% the Free Software Foundation, either version 3 of the License, or
-% (at your option) any later version.
-% 
-% This program is distributed in the hope that it will be useful,
-% but WITHOUT ANY WARRANTY; without even the implied warranty of
-% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-% GNU General Public License for more details.
-% 
-% You should have received a copy of the GNU General Public License
-% along with this program.  If not, see <http://www.gnu.org/licenses/>.
-%
-
 
   %
   % Check which arguments are there
@@ -598,8 +513,6 @@ function [M,P,W] = imm_predict0(M,P,W,T,A,Q,B,U)
 % Syntax:
 %   [m,C] = IMM_ESTIMATE0(M,P,W)
 %
-% Author:
-%   Simo S�rkk�, 2003
 %
 % In:
 %   M - Dx1xN mean state estimates
@@ -615,29 +528,7 @@ function [M,P,W] = imm_predict0(M,P,W,T,A,Q,B,U)
 %   This is just a helper routine to ease the interpretation
 %   of mixture Gaussian output of IMM filter.
 %
-% See also:
-%   IMM_PREDICT, IMM_UPDATE
-%
-% History:
-%   18.02.2003  The first official version.
 
-% Copyright (C) 2003 Simo Särkkä
-%
-% This program is free software: you can redistribute it and/or modify
-% it under the terms of the GNU General Public License as published by
-% the Free Software Foundation, either version 3 of the License, or
-% (at your option) any later version.
-% 
-% This program is distributed in the hope that it will be useful,
-% but WITHOUT ANY WARRANTY; without even the implied warranty of
-% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-% GNU General Public License for more details.
-% 
-% You should have received a copy of the GNU General Public License
-% along with this program.  If not, see <http://www.gnu.org/licenses/>.
-%
-
-%%
   m = zeros(size(M,1),1);
   for i=1:size(M,2)
     m = m + W(i) * M(:,i);
