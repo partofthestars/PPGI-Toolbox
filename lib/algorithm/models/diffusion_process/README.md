@@ -5,6 +5,7 @@
 by Christian S. Pilz, Aachen, 2019<br>
 <br>
 
-## models
+## diffusion_process
 
-- diffusion process.p
+- track.m
+- separate.m
