@@ -11,3 +11,8 @@ by Christian S. Pilz, Aachen, 2019<br>
   - diffusion_process.m
   - track.m
   - separate.m
+
+- stochastic_oscillator/
+  - simulate_periodic_data.m
+  - simulate_and_estimate.m
+  - lti_disc.m
