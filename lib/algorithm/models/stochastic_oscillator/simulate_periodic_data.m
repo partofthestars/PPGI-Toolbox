@@ -1,3 +1,22 @@
+%########################################################################
+%
+%	- PPGI Toolbox - 
+%   A MATLAB toolbox for Photoplethysmography Imaging (PPGI)
+%
+% Author   : Christian S. Pilz
+% Company  : The Nature of Space of Time
+% Date     : 07.05.2019
+%
+% Contact  : cpi@partofthestars.com
+% Web Page : www.partofthestars.com
+%
+% Version  : beta0.1
+%
+%########################################################################
+%
+%	simulate_periodic_data.m:
+%
+
 function [x] = simulate_periodic_data(N,dt,f,Qc,x0)
 %% simulate and estimate ? Estimate results for one draw
 %
