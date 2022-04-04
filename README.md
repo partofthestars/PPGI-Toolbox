@@ -9,7 +9,7 @@
 ## News
 
 **04.04.2022**<br>
-I uploaded the full implementation for the Diffusion process model.<br>
+I uploaded the full implementation of the diffusion process model.<br>
 An example implementation of a stochastic oscillator is added as well:
 <p align="center"><img width=60% src="https://github.com/partofthestars/PPGI-Toolbox/blob/master/media/results/oscillator.png"></p>
 
