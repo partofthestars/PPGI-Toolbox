@@ -20,7 +20,7 @@
 %
 % 	The frequency trajectories are drawn randomly such that the
 % 	random walk (Wiener process) defines a trajectory that is
-% 	transformed into a frequency time series f (in Hertz). The drifter
+% 	transformed into a frequency time series f (in Hertz). The oscillator state space
 % 	method is applied to the data after the simulated signal has been
 % 	transformed to downsampled observations (defined by dts). The mean
 % 	squared error results are then captured and visualized.
