@@ -59,7 +59,7 @@ classdef local_group_invariance
            
            F(1:frames,3)=0;
            for f=1:frames
-              F(f,:)=(P*centered(f,:)')';   
+              F(f,:)=(P*C(f,:)')';   
            end
 
            pulse=double(F(:,2));
