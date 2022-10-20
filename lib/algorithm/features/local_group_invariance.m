@@ -50,12 +50,9 @@ classdef local_group_invariance
            for f=1:frames
                x=skin_pixels{f};
                C(f,:)=[mean(x(:,1)); mean(x(:,2)); mean(x(:,3));];
-           end
+           end  
            
-           center = mean(C);
-           centered = bsxfun(@minus,C,center);
-           
-           [U,E,V]=svd(centered');
+           [U,E,V]=svd(C');
            
            S=U(:,1)';
            P=eye(3)-S'*S;%rank 1
